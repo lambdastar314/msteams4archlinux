@@ -13,4 +13,6 @@ md5sums=('163bf38af0c0300b647452fb5abebda6')
 
 package(){
     tar -xf data.tar.xz -C "${pkgdir}"
+    mkdir $pkgdir/usr/share/license/$pkgname/
+    cp $pkgdir/usr/share/teams/LICENSE $pkgdir/usr/share/license/$pkgname/LICENSE
 }
