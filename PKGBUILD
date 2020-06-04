@@ -2,7 +2,7 @@
 pkgname='microsoft-teams'
 pkgver='1.3.00.5153'
 pkgrel=1
-plgdesc='A chat-centered workspace in Office 365'
+pkgdesc='A chat-centered workspace in Office 365'
 arch=('x86_64')
 url='https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software'
 license=('custom')
