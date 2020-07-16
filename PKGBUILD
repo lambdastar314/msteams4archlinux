@@ -1,6 +1,6 @@
 # https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.5153_amd64.deb
 pkgname='microsoft-teams'
-pkgver='1.3.00.5153'
+pkgver='1.3.00.16851'
 pkgrel=1
 pkgdesc='A chat-centered workspace in Office 365'
 arch=('x86_64')
